@@ -5,3 +5,6 @@ test file with links
 [[/images/status.svg]]
 
 ![Map Widgets Button](images/status.svg)
+
+
+<img src="images/status.svg" width="25" height="25">
