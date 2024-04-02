@@ -3,3 +3,5 @@ test file with links
 [![name](link to image on GH)](link to your URL)
 [[images/status.svg]]
 [[/images/status.svg]]
+
+![Map Widgets Button](images/status.svg)
